@@ -23,9 +23,6 @@ This project demonstrates how to implement **JWT (JSON Web Token)** based authen
 - **Spring Security**
 - **JWT (io.jsonwebtoken:jjwt)**
 - **Maven**
-- **H2 / PostgreSQL (Configurable)**
-- **Lombok**
-
 ---
 
 
